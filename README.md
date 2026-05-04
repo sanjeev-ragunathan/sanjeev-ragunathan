@@ -8,16 +8,18 @@
 
 > Cornell CS graduate student. Keeping up with Machine Learning. Building software that feels intuitive. 
 
-<!--
-## Projects
-- Scapea
--->
+<!--## Projects
+- 🧠 [Evolution of ML](https://sanjeev-ragunathan/evolution-of-ml)
+- 🧀🐝 [CheesyWasp](https://sanjeev-ragunathan/llm-firewall)
+- 🛎️ [FrontDesk Coach](https://sanjeev-ragunathan/Frontdesk-Coach)
+- 🕑 [Cornell Proctor Clock](https://github.com/sanjeev-ragunathan/SDS-Proctor-Clock)-->
 
 ## Achievements
 - HackUI Winner - First Ever Hackathon - Built an app for amputees and their prosthesis
 - Published Patent - LEADS - Unique custom technique of text ranking for legal documents
 - Successfully Failed Startup - Scapea - AR App built for people with disabilities to buy products at the comfort of their home
 - 20feet dive into a natural pool - I don't know how to swim
+<!--- Survived a car crash - saw airbags for the first time(hopefully the last..)-->
 
 ## Connect
 LinkedIn: www.linkedin.com/in/sanjeev-ragunathan/  
