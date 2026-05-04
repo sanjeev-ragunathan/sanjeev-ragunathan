@@ -12,7 +12,8 @@
 - 🧠 [Evolution of ML](https://sanjeev-ragunathan/evolution-of-ml)
 - 🧀🐝 [CheesyWasp](https://sanjeev-ragunathan/llm-firewall)
 - 🛎️ [FrontDesk Coach](https://sanjeev-ragunathan/Frontdesk-Coach)
-- 🕑 [Cornell Proctor Clock](https://github.com/sanjeev-ragunathan/SDS-Proctor-Clock)-->
+- 🕑 [Cornell Proctor Clock](https://github.com/sanjeev-ragunathan/SDS-Proctor-Clock)
+- 🤔 [zulip, what did i miss?](https://github.com/CtrlAltGiri/zulip-what-did-i-miss) - AI catchup for zulip.-->
 
 ## Achievements
 - HackUI Winner - First Ever Hackathon - Built an app for amputees and their prosthesis
