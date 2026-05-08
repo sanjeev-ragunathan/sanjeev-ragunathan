@@ -13,6 +13,7 @@
 - 🧀🐝 [CheesyWasp](https://sanjeev-ragunathan/llm-firewall)
 - 🛎️ [FrontDesk Coach](https://sanjeev-ragunathan/Frontdesk-Coach)
 - 🕑 [Cornell Proctor Clock](https://github.com/sanjeev-ragunathan/SDS-Proctor-Clock)
+- 🧾 [Classify Cornell Unidentified Payments](https://github.com/sanjeev-ragunathan/cornell-treasury-automation)
 - 🤔 [zulip, what did i miss?](https://github.com/CtrlAltGiri/zulip-what-did-i-miss) - AI catchup for zulip.-->
 
 ## Achievements
