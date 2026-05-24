@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
 -->
 
-> Cornell CS graduate student. Keeping up with Machine Learning. Building software that feels intuitive. 
+> Cornell CS graduate. Keeping up with Machine Learning. Building software that feels intuitive. 
 
 <!--
 ## Projects
