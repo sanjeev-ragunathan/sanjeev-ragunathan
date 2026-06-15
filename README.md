@@ -28,7 +28,7 @@
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/sanjeev-ragunathan/) . [Email](sr2432@cornell.edu) . [GitHub](https://github.com/sanjeev-ragunathan/) . [Spotify](https://open.spotify.com/user/3caf2snlimva82c8lnjdwjm0i?si=7f523edc7dd847b3) . [Letterboxd](https://boxd.it/eBbm9) . [X](https://x.com/sanjeevonx)
+[LinkedIn](https://linkedin.com/in/sanjeev-ragunathan/) . [Email](sr2432@cornell.edu) . [GitHub](https://github.com/sanjeev-ragunathan/) . [Spotify](https://open.spotify.com/user/3caf2snlimva82c8lnjdwjm0i?si=7f523edc7dd847b3) . [Letterboxd](https://boxd.it/eBbm9) . [X](https://x.com/sanjeevonx) . [Strava](https://www.strava.com/athletes/sanjeev-ragunathan)
 
 
 <!--
