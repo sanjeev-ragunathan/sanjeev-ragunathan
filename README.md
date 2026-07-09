@@ -30,7 +30,7 @@
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/sanjeev-ragunathan/) . [Email](sr2432@cornell.edu) . [GitHub](https://github.com/sanjeev-ragunathan/) . [LeetCode](https://leetcode.com/u/sanjeev-ragunathan/) . [Spotify](https://open.spotify.com/user/3caf2snlimva82c8lnjdwjm0i?si=7f523edc7dd847b3) . [Letterboxd](https://boxd.it/eBbm9) . [X](https://x.com/sanjeevonx) . [Strava](https://www.strava.com/athletes/sanjeev-ragunathan) . [Places I've been](https://beeneverywhere.net/user/43202)
+[LinkedIn](https://linkedin.com/in/sanjeev-ragunathan/) . [Email](sr2432@cornell.edu) . [GitHub](https://github.com/sanjeev-ragunathan/) . [LeetCode](https://leetcode.com/u/sanjeev-ragunathan/) . [Spotify](https://open.spotify.com/user/3caf2snlimva82c8lnjdwjm0i?si=7f523edc7dd847b3) . [Letterboxd](https://boxd.it/eBbm9) . [Strava](https://www.strava.com/athletes/sanjeev-ragunathan) . [Places I've been](https://beeneverywhere.net/user/43202) . [X](https://x.com/sanjeevonx)
 
 
 <!--
