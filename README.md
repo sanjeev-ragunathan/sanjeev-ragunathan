@@ -20,7 +20,7 @@
 
 
 ## Achievements
-- Recovered $100,000 in unidentified payments for Cornell using AI as an FDE.
+- Recovered $100,000 in unidentified payments for Cornell using AI.
 - HackUI Winner - First Ever Hackathon - Built an app for amputees and their prosthesis
 - Published Patent - LEADS - Unique custom technique of text ranking for legal documents
 - Successfully Failed Startup - Scapea - AR App built for people with disabilities to buy products at the comfort of their home
