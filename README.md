@@ -25,7 +25,7 @@
 - Published Patent - LEADS - Unique custom technique of text ranking for legal documents
 - Successfully Failed Startup - Scapea - AR App built for people with disabilities to buy products at the comfort of their home
 - 20feet dive into a natural pool - I don't know how to swim
-- Visited [56](https://beeneverywhere.net/user/43202) places on planet Earth so far
+- Visited [59](https://beeneverywhere.net/user/43202) places on planet Earth so far
 <!-- Survived a car crash - saw airbags for the first time(hopefully the last..) -->
 
 ## Connect
